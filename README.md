@@ -25,7 +25,7 @@ A simple and user-friendly calculator application built using Java Swing for the
 
 ## Screenshots
 
-![Calculator Screenshot](/screenshots/calculator-screenshot.png)
+![Calculator Screenshot](/images/calc.png)
 
 
 ## Contributing
