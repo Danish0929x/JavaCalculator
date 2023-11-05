@@ -27,13 +27,6 @@ A simple and user-friendly calculator application built using Java Swing for the
 
 ![Calculator Screenshot](/screenshots/calculator-screenshot.png)
 
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](/LICENSE) file for more details.
-
-## Author
-
-[Your Name]
 
 ## Contributing
 
